@@ -1,0 +1,13 @@
+/
+/*1rem = 16px */
+body {
+    font-family: 'Playfair Display', serif;
+    font-size: auto;
+}
+
+.habits-button {
+   background-color:  #EFDECD;
+   border-color: 2px solid #3D2B1F ;
+   color: black;
+   border-radius: 4px;
+}
